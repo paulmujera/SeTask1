@@ -24,7 +24,7 @@ class Vehicle{
 				cout<<"Saloon car"<<endl;
 			}
 			else if(wheels > 4 && doors == 2){
-				cout<<"Lorry"<<endl;
+				cout<<"Truck"<<endl;
 			}
 			else{
 				cout<<"Invalid"<<endl;
