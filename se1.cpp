@@ -27,7 +27,7 @@ class Vehicle{
 				cout<<"Truck"<<endl;
 			}
 			else{
-				cout<<"Invalid"<<endl;
+				cout<<"Incorrect"<<endl;
 			}
 		}
 		
